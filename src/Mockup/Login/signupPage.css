@@ -1,0 +1,178 @@
+.sign {
+  width: 100%;
+  display: flex;
+}
+.firstdiv {
+  width: 50%;
+  margin-top: 100px;
+}
+.button {
+  width: 40%;
+  height: 35px;
+  background-color: white;
+  border: 1px solid gainsboro !important;
+  opacity: 1;
+  border-radius: 5px;
+}
+.MuiSvgIcon-root {
+  width: 0.7rem !important;
+  height: 0.7rem !important;
+}
+.email {
+  border-bottom: 2px solid gainsboro !important;
+  width: 50%;
+  height: 50px;
+  border-style: none;
+}
+.remeber {
+  width: 50%;
+  margin-top: 20px;
+  text-align: right;
+  font-size: small;
+}
+.remeber1 {
+  width: 50%;
+  margin-top: 20px;
+  font-size: small;
+  margin-right: 50px;
+  color: black !important;
+}
+
+.secondbutton {
+  width: 40%;
+  height: 35px;
+  background-color: black;
+  border: 1px solid gainsboro !important;
+  opacity: 1;
+  border-radius: 5px;
+  color: white;
+  margin-top: 20px;
+}
+.imgdiv {
+  width: 40%;
+  border: 1px solid black;
+  margin-top: 50px;
+  text-align: center;
+}
+.a:-webkit-any-link {
+  color: black !important;
+}
+.account {
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+  text-align: center !important;
+  margin-left: 220px;
+  font-size: small;
+}
+.sign2 {
+  color: black !important;
+  font-size: small;
+}
+.secondbutton2 {
+  color: white !important;
+  text-decoration: none !important;
+}
+p span {
+  background: #fff;
+  padding: 0 10px;
+}
+.paragraph {
+  text-align: center;
+  border-bottom: 1px solid gainsboro;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+.or {
+  width: 40%;
+  margin-left: 200px;
+  margin-top: 40px;
+}
+.paraa {
+  color: #adadad;
+  font-size: small;
+}
+a:-webkit-any-link:active {
+  color: black !important;
+}
+.pimg {
+  margin-top: 250px;
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 768px) {
+  .or {
+    margin-left: 156px !important;
+  }
+  .pimg {
+    margin-top: 225px !important;
+  }
+  .remeber1 {
+    margin-right: 0px !important;
+  }
+  .account {
+    width: 70% !important;
+    margin-left: 145px !important;
+  }
+}
+@media screen and (max-width: 768px) {
+  .or {
+    margin-left: 113px !important;
+  }
+  .account {
+    margin-left: 89px !important;
+  }
+}
+@media only screen and (max-width: 767px) and (min-width: 425px) {
+  .firstdiv {
+    width: 58% !important;
+  }
+  .button {
+    width: 69% !important;
+  }
+  .or {
+    margin-left: 75px !important;
+  }
+  .remeber1 {
+    margin-right: 0px !important;
+  }
+  .account {
+    margin-left: 15px !important;
+  }
+}
+@media only screen and (max-width: 424px) and (min-width: 375px) {
+  .firstdiv {
+    width: 60% !important;
+  }
+  .button {
+    width: 70% !important;
+  }
+  .or {
+    margin-left: 70px !important;
+  }
+  .remeber1 {
+    margin-right: 0px !important;
+  }
+  .account {
+    margin-left: 0px !important;
+  }
+  .h1s {
+    font-size: larger;
+  }
+}
+@media only screen and (max-width: 374px) and (min-width: 320px) {
+  .firstdiv {
+    width: 60% !important;
+  }
+  .button {
+    width: 83%;
+  }
+  .remeber1 {
+    margin-right: 0px !important;
+  }
+  .account {
+    margin-left: 0px !important;
+  }
+  .h1s {
+    font-size: larger;
+  }
+}

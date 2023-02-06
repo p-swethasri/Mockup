@@ -1,0 +1,22 @@
+.card {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 3px 3px 15px #00000029;
+  opacity: 1;
+  height: 460px;
+  width: 20%;
+  margin: 30px;
+}
+.selectbutton {
+  background: #cfb338 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+  border: none !important;
+  height: 35px;
+  width: 150px;
+  color: white;
+}
+.hrstyle {
+  width: 90%;
+  opacity: 0.5;
+  color: #00000029;
+}

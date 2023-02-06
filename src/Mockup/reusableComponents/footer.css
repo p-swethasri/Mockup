@@ -1,0 +1,85 @@
+.footer {
+  display: flex;
+  margin-top: 60px;
+  width: 100%;
+}
+.firstdiv1 {
+  width: 40%;
+}
+.seconddiv1 {
+  width: 30%;
+}
+.thirddiv {
+  width: 30%;
+}
+.Register {
+  color: #54372f;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: left;
+  margin-left: 50px;
+}
+.Register1 {
+  color: #54372f;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: left;
+}
+.ab {
+  text-align: initial;
+  color: #cfb338;
+  font-size: 17px;
+  margin: 5px;
+}
+.aab {
+  text-align: initial;
+  margin: 10px;
+  font-size: 17px;
+}
+.place {
+  background: #cfb338 0% 0% no-repeat padding-box;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  margin-left: 60px;
+}
+.placeimg {
+  margin-top: 15px;
+  width: 1.3rem;
+  height: 1.3rem;
+}
+.display {
+  width: 100%;
+  display: flex;
+}
+.con {
+  width: 44% !important;
+  text-align: initial;
+}
+.par {
+  margin-top: 0px;
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+}
+.par1 {
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  padding-bottom: 25px;
+}
+.limgdiv {
+  text-align: initial;
+}
+.socialimg {
+  width: 165px;
+}
+.hstyle {
+  width: 94%;
+  color: #ececec !important;
+}
+.picklehouse {
+  text-align: left;
+  font-size: 20px;
+  margin-left: 25px;
+}
